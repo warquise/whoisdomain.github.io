@@ -50,9 +50,8 @@ def whois_lookup(domain: str):
 print(whois_lookup("google.com"))
 
 
-Once you typed it in and ran the script it, when you open the google chrome website it should be pinned in your google web browser
+Once you typed it in and ran the script it,
 
-![image](https://github.com/warquise/whoisdomain.github.io/assets/160808546/45250a3f-b942-4d86-b3f9-6a47075124b5)
+when you open the google chrome website it should be pinned in your google web browser
 
-
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/160808546/334012437-9a5627d3-cbdb-443c-a623-32fab653f589.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240528%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240528T070816Z&X-Amz-Expires=300&X-Amz-Signature=027659316585d142eb5de8b12b2b8d234933e829ceb3b7b1342fe27575a00386&X-Amz-SignedHeaders=host&actor_id=160808546&key_id=0&repo_id=806434263
