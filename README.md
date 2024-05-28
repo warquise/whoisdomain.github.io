@@ -52,6 +52,7 @@ print(whois_lookup("google.com"))
 
 Once you typed it in and ran the script it, when you open the google chrome website it should be pinned in your google web browser
 
-![image](https://github.com/warquise/whoisdomain.github.io/assets/160808546/9a5627d3-cbdb-443c-a623-32fab653f589)
+![image](https://github.com/warquise/whoisdomain.github.io/assets/160808546/45250a3f-b942-4d86-b3f9-6a47075124b5)
 
-![image](https://github.com/warquise/whoisdomain.github.io/assets/160808546/9108059e-3538-414b-9865-16e332c2af4d)
+
+
